@@ -11,6 +11,7 @@ html{
     font-size: 18px;
     text-rendering: optimizeLegibility;
     background-image:url(img/BG.jpg);
+    brackgrounf-repeat:none;
     background-size:cover;
 }
 h1{
