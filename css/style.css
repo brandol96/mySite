@@ -11,7 +11,7 @@ html{
     font-size: 18px;
     text-rendering: optimizeLegibility;
     background-image:url(img/BG.jpg);
-    background-position:bottom;
+    background-position:center bottom;
     background-repeat: none;
     background-size:cover;
 }
