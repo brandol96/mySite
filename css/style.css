@@ -10,12 +10,9 @@ html{
     font-weight: 400;
     font-size: 18px;
     text-rendering: optimizeLegibility;
-}
-.BG{
     background-image:url(img/BG.jpg);
-    width: 100%;
-    position:fixed;
-    bottom:0;
+    background-size:cover;
+    height:100%;
 }
 h1{
     font-family:'Mr De Haviland',cursive;
