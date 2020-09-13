@@ -13,9 +13,9 @@ html{
 }
 .BG{
     background-image:url(img/BG.jpg);
-    background-position:right;
-    background-repeat: no-repeat;
-    background-size:cover;
+    width: 100%;
+    position:fixed;
+    bottom:0;
 }
 h1{
     font-family:'Mr De Haviland',cursive;
