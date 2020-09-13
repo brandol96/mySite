@@ -12,6 +12,7 @@ html{
     text-rendering: optimizeLegibility;
     background-image:url(img/BG.jpg);
     background-position:bottom;
+    background-repeat: none;
     background-size:cover;
 }
 h1{
