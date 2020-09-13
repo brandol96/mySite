@@ -11,9 +11,8 @@ html{
     font-size: 18px;
     text-rendering: optimizeLegibility;
     background-image:url(img/BG.jpg);
-    background-position: right;
+    background-position:right;
     background-size:cover;
-    height:100%;
 }
 h1{
     font-family:'Mr De Haviland',cursive;
