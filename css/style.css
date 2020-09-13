@@ -10,8 +10,10 @@ html{
     font-weight: 400;
     font-size: 18px;
     text-rendering: optimizeLegibility;
+}
+.BG{
     background-image:url(img/BG.jpg);
-    background-position:left bottom;
+    background-position:right;
     background-repeat: no-repeat;
     background-size:cover;
 }
