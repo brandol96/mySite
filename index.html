@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Casamento</title>
+        <link rel="stylesheet" type="text/css" href="external/css/2015-03-25_13-52-05__grid.css">
+        <link href="https://fonts.googleapis.com/css2?family=Charm&family=Delius&family=Satisfy&family=Mr+De+Haviland&family=Marck+Script&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="external/css/normalize.css">
+        <link rel="stylesheet" type="text/css" href="external/ionicons-master/docs/css/ionicons.min.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        
+        <script type=text/javascript>
+        	function displayNext(){
+        		if (i<images.length){
+        			document.getElementById("photo").src=images[i];
+        			i++;
+        		}else{
+        			i=0;
+        			document.getElementById("photo").src=images[i];
+        			i++;
+        		}
+        	}
+        	function startTimer(){
+        		setInterval(displayNext, 5000);
+        	}
+        	
+        	var images = [], i=1;
+        	images[0]="css/img/beach.jpg";
+        	images[1]="css/img/beach2.jpg";
+        	images[2]="css/img/lake.jpg";
+        	images[3]="css/img/mountain.jpg";
+        </script>
+        
+    </head>
+    
+    <body onload = "startTimer()">
+        <header>
+        <div class="head">
+	        <img class="logo" src="css/img/Logo.png" alt="CRLogo">
+		<div class="payLink">
+        	<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+		<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
+		<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+		<input type="hidden" name="currency" value="BRL" />
+		<input type="hidden" name="receiverEmail" value="brandol.jr@gmail.com" />
+		<input type="hidden" name="iot" value="button" />
+		<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/209x48-doar-assina.gif" name="submit" 				alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+		</form>
+		<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+		</div>
+	</div>
+        </header>
+        
+        <section>          
+            <div class="mainText">
+            	<h1>Cristiani & Ricardo</h1>
+            </div>            
+            <h3 class="agradecer">Agradecemos qualquer colaboração para tornar nossa lua de mel uma realidade!</h3>         
+            <div class="outerBox">
+            	<div class="innerBox">
+            		<img id="photo" class="locales" src="css/img/beach.jpg" alt="Beach">
+            		<p>"O valor das coisas não está no tempo que elas duram, mas na intensidade que elas acontecem. Por isso, existem momentos inesquecíveis, coisa inexplicáveis e pessoas incomparáveis."</p>
+            	</div>
+            </div>
+	</section>            
+               
+    </body>
+    <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+</html>
