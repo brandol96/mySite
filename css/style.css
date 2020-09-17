@@ -39,10 +39,20 @@ p{
     margin:20px;
 }
 .payLink{
-    text-decoration:none;
     position:absolute;
     right:20px;
     margin: 40px;
+}
+.paylink a:link, a:active{
+    color: #470407;
+    text-decoration:none;
+    font-size:90%;
+    transition: border 0.3s, color 0.3s;
+}
+.paylink a:active, a:visited{
+    color: #75080d;
+    padding-bottom:8px;
+    border-bottom: 1.5px solid #75080d;
 }
 /*HEAD*/
 
