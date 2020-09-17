@@ -43,15 +43,17 @@ p{
     right:20px;
     margin: 40px;
 }
-.paylink a:link, a:active{
+.payLink a:link, .payLink a:visited{
     color: #470407;
     text-decoration:none;
     font-size:90%;
     transition: border 0.3s, color 0.3s;
 }
-.paylink a:active, a:visited{
+.payLink a:hover, .payLink a:active{
     color: #75080d;
-    padding-bottom:8px;
+    text-decoration:none;
+    padding-bottom:6px;
+    font-size:90%;
     border-bottom: 1.5px solid #75080d;
 }
 /*HEAD*/
