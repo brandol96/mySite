@@ -21,6 +21,8 @@ h1{
 }
 h2,h3{
     text-align:center;
+    font-family:'Marck Script', cursive;
+    font-size:180%;
 }
 p{
     text-align:center;
@@ -46,14 +48,14 @@ p{
 .payLink a:link, .payLink a:visited{
     color: #470407;
     text-decoration:none;
-    font-size:90%;
+    font-size:110%;
     transition: border 0.3s, color 0.3s;
 }
 .payLink a:hover, .payLink a:active{
     color: #75080d;
     text-decoration:none;
     padding-bottom:6px;
-    font-size:90%;
+    font-size:110%;
     border-bottom: 1.5px solid #75080d;
 }
 /*HEAD*/
@@ -80,7 +82,7 @@ p{
     margin: 30px auto;
     box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.29);
     font-family:'Marck Script', cursive;
-    font-size: 150%;
+    font-size: 180%;
     background-color:white;
 }
 .innerBox{
