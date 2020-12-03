@@ -1,72 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Casamento</title>
+        <title>Ricardo Brandolt Júnior</title>
         <link rel="stylesheet" type="text/css" href="external/css/2015-03-25_13-52-05__grid.css">
-        <link href="https://fonts.googleapis.com/css2?family=Charm&family=Delius&family=Satisfy&family=Mr+De+Haviland&family=Marck+Script&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="external/css/normalize.css">
         <link rel="stylesheet" type="text/css" href="external/ionicons-master/docs/css/ionicons.min.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
-        
-        <script type=text/javascript>
-        	function displayNext(){
-        		if (i<images.length){
-        			document.getElementById("photo").src=images[i];
-        			i++;
-        		}else{
-        			i=0;
-        			document.getElementById("photo").src=images[i];
-        			i++;
-        		}
-        	}
-        	function startTimer(){
-        		setInterval(displayNext, 5000);
-        	}
-        	
-        	var images = [], i=1;
-        	images[0]="css/img/1.jpeg";
-        	images[1]="css/img/2.jpeg";
-        	images[2]="css/img/3.jpeg";
-        	images[3]="css/img/4.jpeg";
-        	images[4]="css/img/5.jpeg";
-        	images[5]="css/img/6.jpeg";
-        	images[6]="css/img/7.jpeg";
-        	images[7]="css/img/8.jpeg";
-        </script>
-        
     </head>
     
-    <body onload = "startTimer()">
+    <body> 
         <header>
-        <div class="BG"></div>
-        <div class="head">
-	        <img class="logo" src="css/img/Logo.png" alt="CRLogo">
-		<div class="payLink">
-        	<ion-icon name="gift"></ion-icon>
-        	<a href="https://docs.google.com/forms/d/1Q1lRlvU2KMiSP5xpOQOCet5Hsr4x0ieh-8hnmbGNCD4/edit"> Clique Aqui para Doar!</a>
-        	
-		<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
-		</div>
-	</div>
-        </header>
-        
-        <section>          
-            <div class="mainText">
-            	<h1>Cristiani & Ricardo</h1>
-            </div>            
-            <h3 class="agradecer">
-            	Queridos familiares e amigos, sejam bem vindos a nossa lista de presentes.<br>
-            	Ressaltamos que nosso maior desejo é sua presença. Deus é tão generoso conosco que já abençoou nosso lar com bens 			materiais.<br>
-            	Caso queira nos presentear, sinta-se a vontade em contribuir com a quantia que sentir em seu coração, este valor será 			revertido em nossa viagem de lua de mel.<br><br>
-            	Agradecemos a todos pelo carinho e colaboração neste nosso momento tão especial!
-            </h3>         
-            <div class="outerBox">
-            	<div class="innerBox">
-            		<img id="photo" class="locales" src="css/img/1.jpeg" alt="Beach">
-            		<p>"O valor das coisas não está no tempo que elas duram, mas na intensidade que elas acontecem. Por isso, existem momentos inesquecíveis, coisa inexplicáveis e pessoas incomparáveis."</p>
-            	</div>
+            <div class="mainTitle">
+                <h1>
+                    Portifólio
+                </h1>
+                <h3 class="autor">
+                    Ricardo Brandolt Júnior
+                </h3>
             </div>
-	</section>            
-               
+            <nav id="mainNav">
+                <div class="row">
+                    <ul class="mainNav">
+                        <li><a href="materialDidatico.html">Material Didático</a></li>
+                        <li><a href="Producao_Bibliografica.html">Produção Bibliográfica</a></li>
+                        <li><a href="producao_Estudante.html">Produção de Estudantes</a></li>
+                        <li><a href="Material_Biblio.html">Material Bibliográfico</a></li>
+                    </ul>
+                </div>                
+            </nav>
+        </header>
     </body>
+    
     <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
 </html>
