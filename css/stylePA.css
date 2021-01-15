@@ -114,6 +114,11 @@ h1{
 .topics p{
     padding: 5px;
 }
+.topics img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .edit{
     color: red;
     font-size: 75%;
