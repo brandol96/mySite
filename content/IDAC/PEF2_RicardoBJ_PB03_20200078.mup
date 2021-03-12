@@ -1,0 +1,431 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Cuidado! Escola",
+      "id": 1,
+      "attr": {
+        "position": [
+          -747.1250381469729,
+          -365.43750095367454,
+          1
+        ],
+        "style": {
+          "fontMultiplier": 2
+        }
+      },
+      "ideas": {
+        "6": {
+          "title": "IDAC e Autores",
+          "id": "76.e657.af58cb8f4-ab4f.e4133605b",
+          "attr": {
+            "position": [
+              193.62506866455078,
+              -92.56250858306885,
+              7
+            ],
+            "style": {
+              "backgroundColor": "#FFFF00"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Edição Original",
+              "id": "3.5bce.25dc939d4-0a7a.0dea9a43f",
+              "ideas": {
+                "2": {
+                  "title": "Busca em portais de Bibliotecas",
+                  "id": "13.5bce.25dc939d4-0a7a.0dea9a43f",
+                  "ideas": {
+                    "1": {
+                      "title": "Portal \"WorldCat\": uma lista com todas as edições do livro",
+                      "id": "11.5bce.25dc939d4-0a7a.0dea9a43f",
+                      "attr": {
+                        "note": {
+                          "index": 3,
+                          "text": "Lista completa: https://www.worldcat.org/title/attention-ecole/oclc/715504556/editions?referer=di&editionsView=true\n\n\nOriginal: https://www.worldcat.org/title/attention-ecole/oclc/715504556?referer=di&ht=edition#borrow"
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "Encontrei a primeira edição do documento em inglês: \"idac16-17\"",
+                          "id": "20.5bce.25dc939d4-0a7a.0dea9a43f",
+                          "ideas": {
+                            "1": {
+                              "title": "CONVENIENTEMENTE existe no original o endereço do IDAC em genéva",
+                              "id": "21.5bce.25dc939d4-0a7a.0dea9a43f",
+                              "attr": {
+                                "note": {
+                                  "index": 6,
+                                  "text": "endereço no google maps: https://www.google.com/maps/place/Chemin+des+Cr%C3%AAts+27/@46.2214713,6.1216067,485m/data=!3m1!1e3!4m6!3m5!1s0x478c64eb04ace983:0x88ae508347161aa3!4b1!8m2!3d46.2210611!4d6.124842"
+                                }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "27 chemin de crets, 1218 Grand-Saconnex, Geneva, Switzerland.",
+                                  "id": "23.5bce.25dc939d4-0a7a.0dea9a43f"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Portal \"WorldCat\": encontrei o nome internacional do IDAC: Institut d'action culturelle (Instituto de Ação Cultural)",
+                      "id": "17.5bce.25dc939d4-0a7a.0dea9a43f",
+                      "ideas": {
+                        "1": {
+                          "title": "Mais obras do IDAC, com portal \"WorldCat\": uma lista de 129 publicações em diversas línguas dos \"Documentos do IDAC\"",
+                          "id": "18.5bce.25dc939d4-0a7a.0dea9a43f",
+                          "attr": {
+                            "note": {
+                              "index": 6,
+                              "text": "Lista de Obras Indexadas ao Portal do IDAC: https://www.worldcat.org/search?q=au%3AInstitut+d%27action+culturelle.&fq=&dblist=638&start=1&qt=page_number_link"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "Algumas Bibliotecas da Europa e América possuem a coleção de Documentos do IDAC de 1978 - 198?",
+                          "id": "19.5bce.25dc939d4-0a7a.0dea9a43f",
+                          "attr": {
+                            "note": {
+                              "index": 7,
+                              "text": "Bibliotecas que possuem os documentos: https://www.worldcat.org/title/idac-documents/oclc/923962422?referer=di&ht=edition"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Curiosidade: o IDAC foi citado como ONG prestadora de consultoria sobre o Brasil para o Banco internacional",
+                      "id": "24.5bce.25dc939d4-0a7a.0dea9a43f",
+                      "ideas": {
+                        "1": {
+                          "title": "\"worldbankdocument\"",
+                          "id": "25.5bce.25dc939d4-0a7a.0dea9a43f"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      125.0155944824221,
+                      -9.999990463256836,
+                      1
+                    ]
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  140.0155944824221,
+                  40.000009536743164,
+                  4
+                ]
+              }
+            },
+            "0.5": {
+              "title": "Buscar pelos nomes na capa",
+              "id": "4.5bce.25dc939d4-0a7a.0dea9a43f",
+              "ideas": {
+                "2": {
+                  "title": "Babette Harper",
+                  "id": "37.5bce.25dc939d4-0a7a.0dea9a43f",
+                  "ideas": {
+                    "1": {
+                      "title": "Nada de Concreto :(",
+                      "id": "39.5bce.25dc939d4-0a7a.0dea9a43f"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Claudius Ceccom",
+                  "id": "41.5bce.25dc939d4-0a7a.0dea9a43f",
+                  "ideas": {
+                    "1": {
+                      "title": "Cartunista, encontrei uma brevíssima biografia e três cartuns na revista piauí",
+                      "id": "43.5bce.25dc939d4-0a7a.0dea9a43f",
+                      "attr": {
+                        "note": {
+                          "index": 25,
+                          "text": "bio: https://www.sesispeditora.com.br/autor/claudius-ceccon/\n\n\nRevista Piauí: https://piaui.folha.uol.com.br/materia/cartuns-de-claudius-ceccon/"
+                        }
+                      },
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Ainda vivo, tem fotinhos no google!",
+                      "id": "45.5bce.25dc939d4-0a7a.0dea9a43f"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Miguel Darcy de Oliveira",
+                  "id": "46.5bce.25dc939d4-0a7a.0dea9a43f",
+                  "ideas": {
+                    "1": {
+                      "title": "Companhia das Letras destaca o trabalho dele para \"ortalecimento da sociedade civil\".",
+                      "id": "48.5bce.25dc939d4-0a7a.0dea9a43f",
+                      "attr": {
+                        "note": {
+                          "index": 28,
+                          "text": "link: https://www.companhiadasletras.com.br/autor.php?codigo=05810"
+                        }
+                      },
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Diplomata",
+                      "id": "93.98f5.e105acb91-0da2.a6de557df",
+                      "attr": {}
+                    },
+                    "3": {
+                      "title": "Seu trabalho é citado no \"WorldBankDocument\" e aparece como revisor do documento",
+                      "id": "50.5bce.25dc939d4-0a7a.0dea9a43f",
+                      "ideas": {}
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Rosiska Darcy de Oliveira",
+                  "id": "53.5bce.25dc939d4-0a7a.0dea9a43f",
+                  "ideas": {
+                    "1": {
+                      "title": "Cadeira na Academia Brasileira de Letras",
+                      "id": "94.98f5.e105acb91-0da2.a6de557df",
+                      "attr": {
+                        "note": {
+                          "index": 25,
+                          "text": "site do perfil: https://www.academia.org.br/academicos/rosiska-darcy-de-oliveira"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Várias obras publicadas",
+                      "id": "95.98f5.e105acb91-0da2.a6de557df"
+                    }
+                  }
+                },
+                "6": {
+                  "title": "Paulo Freire ",
+                  "id": "26.5bce.25dc939d4-0a7a.0dea9a43f",
+                  "ideas": {
+                    "1": {
+                      "title": "\"BiografiaIpea\"",
+                      "id": "28.5bce.25dc939d4-0a7a.0dea9a43f",
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Projeto memória",
+                      "id": "30.5bce.25dc939d4-0a7a.0dea9a43f",
+                      "ideas": {},
+                      "attr": {
+                        "note": {
+                          "index": 16,
+                          "text": "site: http://www.projetomemoria.art.br/PauloFreire/biografia/07_biografia_cronologia.html"
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Entrevista após retorno do exílio",
+                      "id": "33.5bce.25dc939d4-0a7a.0dea9a43f",
+                      "ideas": {
+                        "1": {
+                          "title": "\"IntuiçãoFantasia\"",
+                          "id": "34.5bce.25dc939d4-0a7a.0dea9a43f"
+                        }
+                      }
+                    },
+                    "4": {
+                      "title": "Revisão Bibliográfica do Trabalho de Freire durante o tempo de consutor para o CMI (Conselho Mundial de Igrejas)",
+                      "id": "35.5bce.25dc939d4-0a7a.0dea9a43f",
+                      "ideas": {
+                        "1": {
+                          "title": "\"CMI\"",
+                          "id": "36.5bce.25dc939d4-0a7a.0dea9a43f"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  140.0155944824221,
+                  -43.999990463256836,
+                  3
+                ]
+              }
+            }
+          }
+        },
+        "7": {
+          "title": "Introdução e Paulo Freire",
+          "id": "77.e657.af58cb8f4-ab4f.e4133605b",
+          "ideas": {
+            "2": {
+              "title": "Destaca sobre a escola",
+              "id": "78.e657.af58cb8f4-ab4f.e4133605b",
+              "ideas": {
+                "1": {
+                  "title": "Um espaço social",
+                  "id": "79.e657.af58cb8f4-ab4f.e4133605b"
+                },
+                "2": {
+                  "title": "Subsistema de um sistema maior \"social\"",
+                  "id": "80.e657.af58cb8f4-ab4f.e4133605b"
+                },
+                "3": {
+                  "title": "Alavanca mudanças sociais",
+                  "id": "81.e657.af58cb8f4-ab4f.e4133605b"
+                },
+                "4": {
+                  "title": "O livro descreve uma crise  da escola SEM",
+                  "id": "82.e657.af58cb8f4-ab4f.e4133605b",
+                  "ideas": {
+                    "1": {
+                      "title": "Contexto histórico",
+                      "id": "83.e657.af58cb8f4-ab4f.e4133605b"
+                    },
+                    "2": {
+                      "title": "Contexto Social",
+                      "id": "84.e657.af58cb8f4-ab4f.e4133605b"
+                    },
+                    "3": {
+                      "title": "Contexto Econômico",
+                      "id": "85.e657.af58cb8f4-ab4f.e4133605b"
+                    },
+                    "4": {
+                      "title": "Contexto Político",
+                      "id": "86.e657.af58cb8f4-ab4f.e4133605b"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  178.00003814697266,
+                  -15.984389305114291,
+                  1
+                ]
+              }
+            },
+            "3": {
+              "title": "Paulo Freire",
+              "id": "87.e657.af58cb8f4-ab4f.e4133605b",
+              "ideas": {
+                "1": {
+                  "title": "Pedagogia do Oprimido",
+                  "id": "88.e657.af58cb8f4-ab4f.e4133605b",
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "Educação Bancária",
+                  "id": "90.e657.af58cb8f4-ab4f.e4133605b"
+                },
+                "3": {
+                  "title": "Princípio Fundamental",
+                  "id": "92.e657.af58cb8f4-ab4f.e4133605b"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              110.8750190734861,
+              127.43751525878861,
+              6
+            ],
+            "style": {
+              "backgroundColor": "#FF99CC"
+            }
+          }
+        },
+        "-1": {
+          "title": "Capítulo 1",
+          "id": "59.e657.af58cb8f4-ab4f.e4133605b",
+          "attr": {
+            "style": {
+              "backgroundColor": "#99CC00"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Problemas da Escola",
+              "id": "61.e657.af58cb8f4-ab4f.e4133605b",
+              "ideas": {
+                "1": {
+                  "title": "Relação Aluno-Professor",
+                  "id": "63.e657.af58cb8f4-ab4f.e4133605b"
+                },
+                "2": {
+                  "title": "Rejeição do professor: \"A dificuldade não vem do fracasso pessoal, mas sim da inadaptação pedagógica\"",
+                  "id": "64.e657.af58cb8f4-ab4f.e4133605b"
+                },
+                "3": {
+                  "title": "Sentimento de Fuga",
+                  "id": "65.e657.af58cb8f4-ab4f.e4133605b",
+                  "ideas": {
+                    "1": {
+                      "title": "Evasão de alunos",
+                      "id": "66.e657.af58cb8f4-ab4f.e4133605b"
+                    },
+                    "2": {
+                      "title": "professores não refletem sobre a prática",
+                      "id": "67.e657.af58cb8f4-ab4f.e4133605b"
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Repercursões na vida pessoal dos envolvidos",
+              "id": "62.e657.af58cb8f4-ab4f.e4133605b",
+              "ideas": {
+                "1": {
+                  "title": "debilitação da saúde",
+                  "id": "68.e657.af58cb8f4-ab4f.e4133605b"
+                },
+                "2": {
+                  "title": "Conflitos psicológicos",
+                  "id": "69.e657.af58cb8f4-ab4f.e4133605b"
+                }
+              }
+            },
+            "3": {
+              "title": "Exemplos Concretos",
+              "id": "70.e657.af58cb8f4-ab4f.e4133605b",
+              "ideas": {
+                "1": {
+                  "title": "França",
+                  "id": "71.e657.af58cb8f4-ab4f.e4133605b"
+                },
+                "2": {
+                  "title": "Bélgica",
+                  "id": "72.e657.af58cb8f4-ab4f.e4133605b"
+                },
+                "3": {
+                  "title": "Itália",
+                  "id": "73.e657.af58cb8f4-ab4f.e4133605b"
+                },
+                "4": {
+                  "title": "Suíça",
+                  "id": "74.e657.af58cb8f4-ab4f.e4133605b"
+                },
+                "5": {
+                  "title": "Alemãnha",
+                  "id": "75.e657.af58cb8f4-ab4f.e4133605b"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "Cuidado! Escola",
+  "links": [],
+  "attr": {}
+}
